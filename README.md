@@ -1,30 +1,30 @@
-#Initialize Your React App
+Welcome to the Todo App! This application helps you manage your daily tasks efficiently. You can add, edit, delete, and mark tasks as completed with ease.
 
-Set up a new React application using create-react-app or your preferred method.
-Install Redux and React Redux
+## Features
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Responsive design
 
-#Use npm or yarn to install Redux and React Redux packages.
-Create Redux Store
+## Installation
+Follow these steps to set up the project locally:
+Navigate to the project directory
 
-#Define your Redux store to manage the application state.
-Design Reducers
+cd todoapp
+Install dependencies
+npm install
+npx create-react-app todoapp
 
-#Create reducers to specify how the state changes in response to actions.
-Implement Actions
+Then install redux and react-redux
+write the following code 
 
-#Define action creators to describe events that trigger changes to your application's state.
-Connect Components
+Usage
+Once the app is running, Use the interface to add new tasks, edit existing ones, mark tasks as completed, or delete tasks. 
 
-#Use connect from react-redux to connect your React components to the Redux store.
-Dispatch Actions
+Technologies Used
+Frontend: React.js, Redux
+Styling: CSS, Bootstrap
 
-#Dispatch actions from your components to update the state based on user interactions.
-Handle State Changes
-
-#Update your components to read data from the Redux store and display it appropriately.
-Test Your Application
-
-#Ensure that your TODO site functions correctly, allowing users to add, edit, delete, and mark tasks as complete.
-Optimize and Refactor
-
-
+Contact
+If you have any questions, suggestions, or feedback, feel free to reach out to me at manochaishika@gmail.com
